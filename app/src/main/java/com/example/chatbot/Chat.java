@@ -21,4 +21,7 @@ public class Chat extends AppCompatActivity {
             startActivity(intent);
         });
     }
+
+
+
 }
